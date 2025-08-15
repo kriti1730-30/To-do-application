@@ -58,10 +58,12 @@ The **To-Do Application** is your ultimate productivity companion — perfect fo
 5. **Review & Improve** — Use insights to boost productivity.  
 
 ---
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/todo-app?style=for-the-badge&color=yellow)](https://github.com/yourusername/todo-app/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/todo-app?style=for-the-badge&color=blue)](https://github.com/yourusername/todo-app/network/members)
-[![License](https://img.shields.io/github/license/yourusername/todo-app?style=for-the-badge&color=green)](LICENSE)
-[![Made with Love](https://img.shields.io/badge/Made%20With-❤️-red?style=for-the-badge)](https://github.com/yourusername/todo-app)
+![To-Do App Banner](https://via.placeholder.com/1200x300.png?text=To-Do+App)
+
+[![GitHub stars](https://img.shields.io/github/stars/kriti1730-30/To-do-application?style=for-the-badge&color=yellow)](https://github.com/kriti1730-30/To-do-application/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/kriti1730-30/To-do-application?style=for-the-badge&color=blue)](https://github.com/kriti1730-30/To-do-application/network/members)
+[![License](https://img.shields.io/github/license/kriti1730-30/To-do-application?style=for-the-badge&color=green)](https://github.com/kriti1730-30/To-do-application/blob/main/LICENSE)
+[![Made with Love](https://img.shields.io/badge/Made%20With-❤️-red?style=for-the-badge)](https://github.com/kriti1730-30/To-do-a
 
 ## 📦 Installation  
 

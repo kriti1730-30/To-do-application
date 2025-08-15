@@ -4,7 +4,7 @@ Stay organized and in control with our To-Do app! Add tasks with due dates, prio
 # ✅ To-Do Application  
 *A sleek, feature-rich task manager to keep your life organized and productive.*  
 
-![To-Do App Banner](https://raw.githubusercontent.com/kriti1730-30/To-do-application/main/banner.png)
+![To-Do App Banner](https://raw.githubusercontent.com/kriti1730-30/To-do-application/main/Screenshot 2025-08-15 093545.png)
 
 
 ## 🚀 Overview  
